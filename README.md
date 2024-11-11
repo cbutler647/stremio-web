@@ -14,13 +14,13 @@ Stremio is a modern media center that's a one-stop solution for your video enter
 
 ### Install dependencies
 
-```bash
+```12bash
 npm install
 ```
 
 ### Start development server
 
-```bash
+```6bash
 npm start
 ```
 
