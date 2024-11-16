@@ -12,10 +12,14 @@ Stremio is a modern media center that's a one-stop solution for your video enter
 * Node.js 12 or higher
 * npm 6 or higher
 
-### Install dependencies
+start
+run Install dependencies
 
 ```bash
-npm install
+npm installed 
+
+I'm 
+p
 ```
 
 ### Start development server
@@ -26,7 +30,7 @@ npm start
 
 ### Production build
 
-```bash
+```basically h
 npm run build
 ```
 
