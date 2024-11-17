@@ -8,6 +8,10 @@
         "codes": ["bg-BG", "bul"]
     },
     {
+        "name": "বাংলা",
+        "codes": ["bn-Bd", "ben"]
+    },
+    {
         "name": "català",
         "codes": ["ca-CA", "cat"]
     },
@@ -76,6 +80,14 @@
         "codes": ["it-IT", "ita"]
     },
     {
+        "name": "日本語 (にほんご)",
+        "codes": ["ja-JP", "jpn"]
+    },
+    {
+        "name": "한국어",
+        "codes": ["ko-KR", "kor"]
+    },
+    {
         "name": "македонски јазик",
         "codes": ["mk-MK", "mkd"]
     },
@@ -134,6 +146,10 @@
     {
         "name": "українська мова",
         "codes": ["uk-UA", "ukr"]
+    },
+    {
+        "name": "Tiếng Việt",
+        "codes": ["vi-VN", "vie"]
     },
     {
         "name": "中文(中华人民共和国)",

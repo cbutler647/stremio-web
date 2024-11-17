@@ -37,7 +37,7 @@ jobs:
       # "--parrents where no error if existing, make parent directories as needed."
       - run: mkdir -p ./build/${{ github.head_ref || github.ref_name }}
       - name: Deploy to GitHub Pages
-        if: github.repository == 'Stremio/stremio-web' && github.actor != 'dependabot[bot]'
+        if: github.event.pull_request.head.repo.fork == false && github.actor != 'dependabot[bot]'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
